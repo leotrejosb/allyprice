@@ -30,10 +30,7 @@ const Navbars = () => {
 
         <Container>
           <Navbar.Brand href="/allyprice">AllyPrice</Navbar.Brand>
-          <Nav className="ms-auto">
-            <Nav.Link href="/allyprice/Registro">Registro</Nav.Link>
-            <Nav.Link href="/allyprice/Login">Login</Nav.Link>
-          </Nav>
+          
         </Container>
 
       </nav>
